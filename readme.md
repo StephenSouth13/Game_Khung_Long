@@ -4,7 +4,8 @@ Dino Runner là một trò chơi platformer side-scrolling 2D thú vị nơi b�
 
 📸 Screenshot
 Chưa có ảnh? Bạn có thể thêm ảnh gameplay đẹp tại đây bằng cú pháp:
-![Gameplay Screenshot](assets/screenshots/gameplay1.png)
+![Gameplay Screenshot](<img width="2301" height="1146" alt="image" src="https://github.com/user-attachments/assets/1441318f-6519-4dfc-8fbe-75b8dc8c2bdc" />
+)
 
 
 🧩 Tính năng nổi bật
@@ -40,9 +41,7 @@ DinoRunner/
 
 
 
-🔧 Cách cài đặt và chạy
-# Clone dự án về máy
-git clone [https://github.com/tenban/DinoRunner.git](https://github.com/StephenSouth13/Game_Khung_Long)
+
 
 # Mở bằng Unity 6.0.1
 # Chạy scene chính có tên: MainScene.unity
