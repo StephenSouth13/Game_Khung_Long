@@ -42,7 +42,7 @@ DinoRunner/
 
 🔧 Cách cài đặt và chạy
 # Clone dự án về máy
-git clone https://github.com/tenban/DinoRunner.git
+git clone [https://github.com/tenban/DinoRunner.git](https://github.com/StephenSouth13/Game_Khung_Long)
 
 # Mở bằng Unity 6.0.1
 # Chạy scene chính có tên: MainScene.unity
